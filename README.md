@@ -60,8 +60,4 @@ You can run tests by executing `node_modules/cucumber/bin/cucumber-js`
 
 * With TestCafé version 0.19.0, you no longer have to manually update stack-chain. Thank you to the TestCafé crew for making the integration much easier.
 
-## Contributors 
-Thanks to everyone who has contributed to this project over the last few years.
 
-[<img alt="cmasekar" src="https://avatars0.githubusercontent.com/u/6192576?s=460&v=4" width="115">](https://github.com/cmasekar) |[<img alt="benkirbyten10" src="https://avatars0.githubusercontent.com/u/29120362?s=460&v=4" width="115">](https://github.com/benkirbyten10) |[<img alt="vvedachalam" src="https://avatars1.githubusercontent.com/u/7630355?s=460&v=4" width="115">](https://github.com/vvedachalam) |[<img alt="azzra" src="https://avatars3.githubusercontent.com/u/9268494?s=460&v=4" width="115">](https://github.com/azzra) |
-:---: |:---: |:---: |:---: |
